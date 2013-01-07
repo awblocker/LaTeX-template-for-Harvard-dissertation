@@ -76,7 +76,7 @@
 
 \RequirePackage{fontspec,xltxtra,xunicode}
 \defaultfontfeatures{Mapping=tex-text, Numbers=OldStyle}
-\setromanfont[Mapping=tex-text, Numbers=OldStyle, Ligatures={{Historic,Contextual,Rare}}]{Chaparral Pro} % Contextuals=Swash, Ligatures={{Historic,Contextual,Rare}}
+\setromanfont[Mapping=tex-text, Numbers=OldStyle, Ligatures={Historic,Contextual,Rare}]{Chaparral Pro} % Contextuals=Swash, Ligatures={{Historic,Contextual,Rare}}
 
 
 
